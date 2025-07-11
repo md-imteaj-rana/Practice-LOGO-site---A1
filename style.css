@@ -1,8 +1,3 @@
-/* this will help padding the buttons accordingly
-{
-    height: 0px;
-    padding: 0px;
-} */
 .open-sans-normal {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -264,11 +259,14 @@
 .form_txt{
     font-family: inter;
     font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
 }
 
 .form_txt2{
     font-family: inter;
     font-size: 20px;
+    font-weight: 600;
     color: gray;
     padding-left: 30px;
 }
@@ -338,4 +336,13 @@ textarea {
 
 button:hover{
     color: #252432;
+}
+
+.btn_style.txt_inp_btn:hover{
+    color: #252432;
+}
+.txt_inp3{
+    height: 150px;
+
+
 }
