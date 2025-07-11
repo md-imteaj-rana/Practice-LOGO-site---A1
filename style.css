@@ -50,8 +50,8 @@
 }
 
 .header_h4{
-    font-weight: 800;
-    font-size: 30px;
+    font-weight: 900;
+    font-size: 40px;
     color: #4E47FF;
     font-family: inter;
 }
@@ -145,8 +145,9 @@
 
 .main_sec3_div2{
     display: flex;
-    padding-left: 55px;
+    padding-left: 275px;
     align-items: center;
+    padding-bottom: 200px;
 }
 
 .main_sec3_h3{
@@ -207,6 +208,12 @@
 
 .main_sec4_div1{
     text-align: center;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .main_sec4_div1_h2{
@@ -236,3 +243,99 @@
     margin-bottom: 25px;
 }
 
+.main_sec4{
+    margin-bottom: 200px;
+}
+
+.main_sec5_div1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right:310px;
+}
+
+.main_sec5_div2_h1{
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 97px;
+    padding-top: 100px;
+}
+
+.form_txt{
+    font-family: inter;
+    font-size: 18px;
+}
+
+.form_txt2{
+    font-family: inter;
+    font-size: 20px;
+    color: gray;
+    padding-left: 30px;
+}
+
+.txt_inp{
+    display: block;
+    border-radius: 8px;
+    height: 85px;
+    background-color: aliceblue;
+    border: grey;
+    width: 100%;
+}
+
+.txt_inp_btn{
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 20px 250px;
+    margin-top: 20px;
+    margin-right: -32px;
+    margin-bottom: 70px;
+
+}
+
+textarea {
+  resize: none;
+}
+
+.main_sec5_div3{
+    margin-right: -200px;
+}
+
+.main_footer_div1{
+    text-align: center;
+}
+
+.main_footer_div2{
+    display: flex;
+    justify-content: center;
+}
+
+.main_footer_h1{
+    color: #4E47FF;
+    font-weight: 900;
+    font-family: inter;
+    font-size: 100px;
+    margin-bottom: -10px;
+}
+
+.main_footer_p{
+    font-family: inter;
+    font-size: 16px;
+    color: gray;
+}
+
+.main_footer_p2{
+    padding-right: 40px;
+}
+
+.main_footer_div2{
+    margin-left: 25px;
+}
+
+.main_footer_div1{
+    margin-top: 100px;
+}
+
+button:hover{
+    color: #252432;
+}
