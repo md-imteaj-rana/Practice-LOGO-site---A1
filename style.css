@@ -208,3 +208,31 @@
 .main_sec4_div1{
     text-align: center;
 }
+
+.main_sec4_div1_h2{
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.main_sec4_div1_p{
+    font-family: Raleway;
+    font-size: 16px;
+    color: gray;
+    margin-top: -25px;
+}
+
+.main_sec4_div1_img{
+    border-radius: 55px;
+}
+
+.btn_main_sec4_div1{
+    padding: 18px 40px;
+    align-items: center;
+    margin-left: 43%;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
